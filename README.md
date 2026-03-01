@@ -15,6 +15,8 @@ Tesla DLM dynamically adjusts your Tesla's charging current in real time based o
 
 It's a full Python rewrite of a 187-node Node-RED flow, now running as a single AppDaemon app with clean state management and Telegram integration.
 
+<img width="1626" height="913" alt="Immagine 2026-03-01 202542" src="https://github.com/user-attachments/assets/3d5573e6-f014-4ae5-8ba5-997903dab5b0" />
+
 ---
 
 ## Charging Modes
@@ -38,6 +40,11 @@ It's a full Python rewrite of a 187-node Node-RED flow, now running as a single 
 - **🔋 Luna2000 Battery Management** — in Inverter DLM mode, limits Tesla charging if the home battery SOC drops below a configurable threshold. Also manages battery discharge power to protect against double drain.
 - **📲 Telegram Inline Keyboard** — interactive mode selection with reply buttons; auto-edits messages on timeout or confirmation.
 - **📈 Periodic Status Report** — sends a full energy snapshot every 30 minutes while charging (configurable interval).
+
+
+
+https://github.com/user-attachments/assets/b059685b-eb45-43b7-965f-d6b65771e42d
+
 
 ---
 
