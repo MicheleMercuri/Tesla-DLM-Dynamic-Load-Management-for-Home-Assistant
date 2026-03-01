@@ -250,8 +250,7 @@ MIT — see [LICENSE](LICENSE) for details.
 ---
 
 ## Credits
-
-Migrated from a 187-node Node-RED flow to Python + AppDaemon.  
+ 
 Built for the Italian energy ecosystem (F1/F2/F3 tariffs, Huawei SUN2000 inverters, Luna2000 batteries).
 
 If you're using this with a different inverter, EV, or tariff system — PRs welcome!
